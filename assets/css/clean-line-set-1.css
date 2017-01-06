@@ -1,0 +1,250 @@
+@font-face {
+	font-family: "clean-line-set-1";
+	src: url("../fonts/clean-line-set-1.eot");
+	src: url("../fonts/clean-line-set-1.eot#iefix") format("embedded-opentype"),
+	url("../fonts/clean-line-set-1.woff") format("woff"),
+	url("../fonts/clean-line-set-1.ttf") format("truetype"),
+	url("../fonts/clean-line-set-1.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="clean-line-set-1-"]:before, [class*=" clean-line-set-1-"]:before,
+[class^="clean-line-set-1-"]:after, [class*=" clean-line-set-1-"]:after {   
+	font-family: clean-line-set-1;
+        font-size: 60px;
+font-style: normal;
+/*margin-left: 20px;*/
+}.clean-line-set-1-alarm6:before {
+	content: "\e000";
+}
+.clean-line-set-1-audio25:before {
+	content: "\e001";
+}
+.clean-line-set-1-badges3:before {
+	content: "\e002";
+}
+.clean-line-set-1-bookmarks7:before {
+	content: "\e003";
+}
+.clean-line-set-1-browser82:before {
+	content: "\e004";
+}
+.clean-line-set-1-chemistry36:before {
+	content: "\e005";
+}
+.clean-line-set-1-chronometers2:before {
+	content: "\e006";
+}
+.clean-line-set-1-circular23:before {
+	content: "\e007";
+}
+.clean-line-set-1-cleaning21:before {
+	content: "\e008";
+}
+.clean-line-set-1-clipboards5:before {
+	content: "\e009";
+}
+.clean-line-set-1-clipboards6:before {
+	content: "\e00a";
+}
+.clean-line-set-1-clocks19:before {
+	content: "\e00b";
+}
+.clean-line-set-1-computer mouse25:before {
+	content: "\e00c";
+}
+.clean-line-set-1-computer mouse26:before {
+	content: "\e00d";
+}
+.clean-line-set-1-computer mouse27:before {
+	content: "\e00e";
+}
+.clean-line-set-1-connected33:before {
+	content: "\e00f";
+}
+.clean-line-set-1-connectivity4:before {
+	content: "\e010";
+}
+.clean-line-set-1-dentist21:before {
+	content: "\e011";
+}
+.clean-line-set-1-dentist22:before {
+	content: "\e012";
+}
+.clean-line-set-1-dentist23:before {
+	content: "\e013";
+}
+.clean-line-set-1-desk-lamp1:before {
+	content: "\e014";
+}
+.clean-line-set-1-documents56:before {
+	content: "\e015";
+}
+.clean-line-set-1-down arrow56:before {
+	content: "\e016";
+}
+.clean-line-set-1-electrocardiogram7:before {
+	content: "\e017";
+}
+.clean-line-set-1-file211:before {
+	content: "\e018";
+}
+.clean-line-set-1-file213:before {
+	content: "\e019";
+}
+.clean-line-set-1-flash drive:before {
+	content: "\e01a";
+}
+.clean-line-set-1-garbage can2:before {
+	content: "\e01b";
+}
+.clean-line-set-1-garbage can5:before {
+	content: "\e01c";
+}
+.clean-line-set-1-home51:before {
+	content: "\e01d";
+}
+.clean-line-set-1-lines15:before {
+	content: "\e01e";
+}
+.clean-line-set-1-lock132:before {
+	content: "\e01f";
+}
+.clean-line-set-1-loudspeakers:before {
+	content: "\e020";
+}
+.clean-line-set-1-lover10:before {
+	content: "\e021";
+}
+.clean-line-set-1-lover11:before {
+	content: "\e022";
+}
+.clean-line-set-1-lover12:before {
+	content: "\e023";
+}
+.clean-line-set-1-loving15:before {
+	content: "\e024";
+}
+.clean-line-set-1-maths63:before {
+	content: "\e025";
+}
+.clean-line-set-1-microphones46:before {
+	content: "\e026";
+}
+.clean-line-set-1-microphones47:before {
+	content: "\e027";
+}
+.clean-line-set-1-mostache:before {
+	content: "\e028";
+}
+.clean-line-set-1-movie69:before {
+	content: "\e029";
+}
+.clean-line-set-1-padlock106:before {
+	content: "\e02a";
+}
+.clean-line-set-1-pencils17:before {
+	content: "\e02b";
+}
+.clean-line-set-1-phone call9:before {
+	content: "\e02c";
+}
+.clean-line-set-1-phone number:before {
+	content: "\e02d";
+}
+.clean-line-set-1-photo247:before {
+	content: "\e02e";
+}
+.clean-line-set-1-photography41:before {
+	content: "\e02f";
+}
+.clean-line-set-1-photography42:before {
+	content: "\e030";
+}
+.clean-line-set-1-photography44:before {
+	content: "\e031";
+}
+.clean-line-set-1-poker12:before {
+	content: "\e032";
+}
+.clean-line-set-1-print85:before {
+	content: "\e033";
+}
+.clean-line-set-1-printing30:before {
+	content: "\e034";
+}
+.clean-line-set-1-rocket launch:before {
+	content: "\e035";
+}
+.clean-line-set-1-rockets2:before {
+	content: "\e036";
+}
+.clean-line-set-1-rocket ship:before {
+	content: "\e037";
+}
+.clean-line-set-1-shredding:before {
+	content: "\e038";
+}
+.clean-line-set-1-sound waves3:before {
+	content: "\e039";
+}
+.clean-line-set-1-speakers8:before {
+	content: "\e03a";
+}
+.clean-line-set-1-square250:before {
+	content: "\e03b";
+}
+.clean-line-set-1-squares91:before {
+	content: "\e03c";
+}
+.clean-line-set-1-squares95:before {
+	content: "\e03d";
+}
+.clean-line-set-1-stars65:before {
+	content: "\e03e";
+}
+.clean-line-set-1-teeth7:before {
+	content: "\e03f";
+}
+.clean-line-set-1-teeth8:before {
+	content: "\e040";
+}
+.clean-line-set-1-teeth9:before {
+	content: "\e041";
+}
+.clean-line-set-1-tv screen8:before {
+	content: "\e042";
+}
+.clean-line-set-1-ufo:before {
+	content: "\e043";
+}
+.clean-line-set-1-uploading20:before {
+	content: "\e044";
+}
+.clean-line-set-1-usb46:before {
+	content: "\e045";
+}
+.clean-line-set-1-video-camera17:before {
+	content: "\e046";
+}
+.clean-line-set-1-video player22:before {
+	content: "\e047";
+}
+.clean-line-set-1-volume adjustment6:before {
+	content: "\e048";
+}
+.clean-line-set-1-wake up1:before {
+	content: "\e049";
+}
+.clean-line-set-1-website34:before {
+	content: "\e04a";
+}
+.clean-line-set-1-wireless connectivity11:before {
+	content: "\e04b";
+}
+.clean-line-set-1-wireless connectivity12:before {
+	content: "\e04c";
+}
+.clean-line-set-1-wireless internet4:before {
+	content: "\e04d";
+}
